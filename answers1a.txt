@@ -1313,6 +1313,9 @@ Transfered 184 of product P300 from  FC1 to  FC3
 Transfered 144 of product P300 from  FC2 to  FC1
 Transfered 144 of product P300 from  FC2 to  FC3
 Transfered 26 of product P300 from  FC3 to  FC1
+
+
+
 Day 2 transfers are: 
 Transfered 117 of product P1 from  FC2 to  FC1
 Transfered 117 of product P1 from  FC3 to  FC1
@@ -1858,6 +1861,9 @@ Transfered 146 of product P299 from  FC2 to  FC1
 Transfered 790 of product P299 from  FC3 to  FC2
 Transfered 105 of product P300 from  FC1 to  FC3
 Transfered 72 of product P300 from  FC2 to  FC3
+
+
+
 Day 3 transfers are: 
 Transfered 109 of product P1 from  FC3 to  FC1
 Transfered 40 of product P2 from  FC1 to  FC3
@@ -2274,6 +2280,9 @@ Transfered 18 of product P299 from  FC3 to  FC1
 Transfered 83 of product P300 from  FC1 to  FC2
 Transfered 83 of product P300 from  FC1 to  FC3
 Transfered 128 of product P300 from  FC2 to  FC1
+
+
+
 Day 4 transfers are: 
 Transfered 226 of product P1 from  FC1 to  FC2
 Transfered 54 of product P1 from  FC3 to  FC1
@@ -2693,6 +2702,9 @@ Transfered 738 of product P298 from  FC3 to  FC1
 Transfered 738 of product P298 from  FC3 to  FC2
 Transfered 41 of product P300 from  FC1 to  FC3
 Transfered 423 of product P300 from  FC2 to  FC1
+
+
+
 Day 5 transfers are: 
 Transfered 10 of product P2 from  FC1 to  FC3
 Transfered 44 of product P3 from  FC2 to  FC3
@@ -3084,6 +3096,9 @@ Transfered 738 of product P298 from  FC3 to  FC2
 Transfered 936 of product P299 from  FC3 to  FC1
 Transfered 85 of product P300 from  FC1 to  FC3
 Transfered 426 of product P300 from  FC2 to  FC1
+
+
+
 Day 6 transfers are: 
 Transfered 5 of product P2 from  FC1 to  FC3
 Transfered 28 of product P3 from  FC2 to  FC3
@@ -3478,6 +3493,9 @@ Transfered 738 of product P298 from  FC3 to  FC1
 Transfered 738 of product P298 from  FC3 to  FC2
 Transfered 254 of product P300 from  FC1 to  FC3
 Transfered 426 of product P300 from  FC2 to  FC1
+
+
+
 Day 7 transfers are: 
 Transfered 1278 of product P1 from  FC2 to  FC1
 Transfered 1186 of product P1 from  FC2 to  FC3
@@ -3964,6 +3982,9 @@ Transfered 936 of product P299 from  FC3 to  FC2
 Transfered 340 of product P300 from  FC1 to  FC3
 Transfered 462 of product P300 from  FC2 to  FC1
 Transfered 462 of product P300 from  FC2 to  FC3
+
+
+
 Day 8 transfers are: 
 Transfered 1278 of product P1 from  FC2 to  FC3
 Transfered 1024 of product P2 from  FC3 to  FC2
@@ -4360,6 +4381,9 @@ Transfered 853 of product P299 from  FC3 to  FC1
 Transfered 936 of product P299 from  FC3 to  FC2
 Transfered 426 of product P300 from  FC2 to  FC1
 Transfered 426 of product P300 from  FC2 to  FC3
+
+
+
 Day 9 transfers are: 
 Transfered 1278 of product P1 from  FC2 to  FC3
 Transfered 956 of product P2 from  FC3 to  FC2
@@ -4745,6 +4769,9 @@ Transfered 936 of product P299 from  FC3 to  FC1
 Transfered 743 of product P299 from  FC3 to  FC2
 Transfered 426 of product P300 from  FC2 to  FC1
 Transfered 426 of product P300 from  FC2 to  FC3
+
+
+
 Day 10 transfers are: 
 Transfered 1278 of product P1 from  FC2 to  FC1
 Transfered 984 of product P1 from  FC2 to  FC3
@@ -5124,6 +5151,9 @@ Transfered 842 of product P299 from  FC3 to  FC1
 Transfered 820 of product P299 from  FC3 to  FC2
 Transfered 1516 of product P300 from  FC2 to  FC1
 Transfered 1299 of product P300 from  FC2 to  FC3
+
+
+
 Day 11 transfers are: 
 Transfered 1278 of product P1 from  FC2 to  FC1
 Transfered 358 of product P4 from  FC3 to  FC1
@@ -5488,6 +5518,9 @@ Transfered 936 of product P299 from  FC3 to  FC1
 Transfered 853 of product P299 from  FC3 to  FC2
 Transfered 426 of product P300 from  FC2 to  FC1
 Transfered 426 of product P300 from  FC2 to  FC3
+
+
+
 Day 12 transfers are: 
 Transfered 1210 of product P1 from  FC2 to  FC1
 Transfered 769 of product P1 from  FC2 to  FC3
@@ -5851,6 +5884,9 @@ Transfered 738 of product P298 from  FC3 to  FC2
 Transfered 936 of product P299 from  FC3 to  FC1
 Transfered 742 of product P300 from  FC2 to  FC1
 Transfered 496 of product P300 from  FC2 to  FC3
+
+
+
 Day 13 transfers are: 
 Transfered 796 of product P5 from  FC2 to  FC1
 Transfered 590 of product P7 from  FC2 to  FC1
@@ -6192,6 +6228,9 @@ Transfered 936 of product P299 from  FC3 to  FC1
 Transfered 936 of product P299 from  FC3 to  FC2
 Transfered 426 of product P300 from  FC2 to  FC1
 Transfered 426 of product P300 from  FC2 to  FC3
+
+
+
 Day 14 transfers are: 
 Transfered 1278 of product P1 from  FC2 to  FC1
 Transfered 1278 of product P1 from  FC2 to  FC3
@@ -6595,6 +6634,9 @@ Transfered 936 of product P299 from  FC3 to  FC1
 Transfered 936 of product P299 from  FC3 to  FC2
 Transfered 426 of product P300 from  FC2 to  FC1
 Transfered 426 of product P300 from  FC2 to  FC3
+
+
+
 Day 15 transfers are: 
 Transfered 1278 of product P1 from  FC2 to  FC1
 Transfered 772 of product P1 from  FC2 to  FC3
@@ -6993,6 +7035,9 @@ Transfered 936 of product P299 from  FC3 to  FC1
 Transfered 936 of product P299 from  FC3 to  FC2
 Transfered 426 of product P300 from  FC2 to  FC1
 Transfered 426 of product P300 from  FC2 to  FC3
+
+
+
 Day 16 transfers are: 
 Transfered 950 of product P1 from  FC2 to  FC3
 Transfered 1220 of product P2 from  FC3 to  FC2
@@ -7364,6 +7409,9 @@ Transfered 936 of product P299 from  FC3 to  FC1
 Transfered 936 of product P299 from  FC3 to  FC2
 Transfered 426 of product P300 from  FC2 to  FC1
 Transfered 426 of product P300 from  FC2 to  FC3
+
+
+
 Day 17 transfers are: 
 Transfered 1278 of product P1 from  FC2 to  FC1
 Transfered 1278 of product P1 from  FC2 to  FC3
@@ -7740,6 +7788,9 @@ Transfered 936 of product P299 from  FC3 to  FC1
 Transfered 936 of product P299 from  FC3 to  FC2
 Transfered 426 of product P300 from  FC2 to  FC1
 Transfered 426 of product P300 from  FC2 to  FC3
+
+
+
 Day 18 transfers are: 
 Transfered 1048 of product P1 from  FC2 to  FC3
 Transfered 43 of product P4 from  FC3 to  FC1
@@ -8117,6 +8168,9 @@ Transfered 936 of product P299 from  FC3 to  FC1
 Transfered 936 of product P299 from  FC3 to  FC2
 Transfered 1255 of product P300 from  FC2 to  FC1
 Transfered 1255 of product P300 from  FC2 to  FC3
+
+
+
 Day 19 transfers are: 
 Transfered 1278 of product P1 from  FC2 to  FC1
 Transfered 650 of product P1 from  FC2 to  FC3
@@ -8482,6 +8536,9 @@ Transfered 936 of product P299 from  FC3 to  FC1
 Transfered 936 of product P299 from  FC3 to  FC2
 Transfered 426 of product P300 from  FC2 to  FC1
 Transfered 426 of product P300 from  FC2 to  FC3
+
+
+
 Day 20 transfers are: 
 Transfered 864 of product P1 from  FC2 to  FC1
 Transfered 1093 of product P5 from  FC2 to  FC1
@@ -8849,6 +8906,9 @@ Transfered 627 of product P299 from  FC3 to  FC1
 Transfered 936 of product P299 from  FC3 to  FC2
 Transfered 426 of product P300 from  FC2 to  FC1
 Transfered 426 of product P300 from  FC2 to  FC3
+
+
+
 Day 21 transfers are: 
 Transfered 1278 of product P1 from  FC2 to  FC1
 Transfered 1278 of product P1 from  FC2 to  FC3
@@ -9260,6 +9320,9 @@ Transfered 883 of product P299 from  FC3 to  FC1
 Transfered 936 of product P299 from  FC3 to  FC2
 Transfered 608 of product P300 from  FC2 to  FC1
 Transfered 608 of product P300 from  FC2 to  FC3
+
+
+
 Day 22 transfers are: 
 Transfered 1278 of product P1 from  FC2 to  FC1
 Transfered 1104 of product P1 from  FC2 to  FC3
@@ -9659,6 +9722,9 @@ Transfered 936 of product P299 from  FC3 to  FC1
 Transfered 335 of product P299 from  FC3 to  FC2
 Transfered 426 of product P300 from  FC2 to  FC1
 Transfered 426 of product P300 from  FC2 to  FC3
+
+
+
 Day 23 transfers are: 
 Transfered 792 of product P1 from  FC2 to  FC1
 Transfered 551 of product P2 from  FC3 to  FC2
@@ -10041,6 +10107,9 @@ Transfered 696 of product P299 from  FC3 to  FC1
 Transfered 935 of product P299 from  FC3 to  FC2
 Transfered 426 of product P300 from  FC2 to  FC1
 Transfered 426 of product P300 from  FC2 to  FC3
+
+
+
 Day 24 transfers are: 
 Transfered 1278 of product P1 from  FC2 to  FC3
 Transfered 1049 of product P2 from  FC3 to  FC2
@@ -10424,6 +10493,9 @@ Transfered 936 of product P299 from  FC3 to  FC1
 Transfered 936 of product P299 from  FC3 to  FC2
 Transfered 1230 of product P300 from  FC2 to  FC1
 Transfered 1230 of product P300 from  FC2 to  FC3
+
+
+
 Day 25 transfers are: 
 Transfered 281 of product P1 from  FC2 to  FC1
 Transfered 387 of product P1 from  FC2 to  FC3
@@ -10788,6 +10860,9 @@ Transfered 936 of product P299 from  FC3 to  FC1
 Transfered 936 of product P299 from  FC3 to  FC2
 Transfered 718 of product P300 from  FC2 to  FC1
 Transfered 718 of product P300 from  FC2 to  FC3
+
+
+
 Day 26 transfers are: 
 Transfered 694 of product P1 from  FC2 to  FC1
 Transfered 427 of product P1 from  FC2 to  FC3
@@ -11055,6 +11130,9 @@ Transfered 851 of product P297 from  FC1 to  FC3
 Transfered 936 of product P299 from  FC3 to  FC2
 Transfered 426 of product P300 from  FC2 to  FC1
 Transfered 426 of product P300 from  FC2 to  FC3
+
+
+
 Day 27 transfers are: 
 Transfered 845 of product P1 from  FC2 to  FC1
 Transfered 694 of product P1 from  FC2 to  FC3
@@ -11243,6 +11321,9 @@ Transfered 428 of product P296 from  FC1 to  FC3
 Transfered 851 of product P297 from  FC1 to  FC3
 Transfered 936 of product P299 from  FC3 to  FC2
 Transfered 426 of product P300 from  FC2 to  FC3
+
+
+
 Day 28 transfers are: 
 Transfered 128 of product P13 from  FC3 to  FC2
 Transfered 872 of product P14 from  FC3 to  FC2
