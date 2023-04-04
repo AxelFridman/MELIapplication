@@ -1,0 +1,4 @@
+Cannot generate into C:\Users\fridm\OneDrive\Escritorio\tpAlgortimos3\TPjuanEj1\cmake-build-debug
+It is already used for project \home\juan\Dropbox\Facu 1er 2022\Algo3\TP1\tp1algo3\TPjuanEj1
+
+Please either delete it manually or select another generation directory
